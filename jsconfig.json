@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "es2020",
+    "target": "es2020",
+    "moduleResolution": "node",
+    "baseUrl": "./"
+  },
+  "include": ["./"]
+}
+/*
+✔ Corrige rutas
+✔ Habilita IntelliSense
+✔ Elimina falsos errores de "no existe"
+*/
