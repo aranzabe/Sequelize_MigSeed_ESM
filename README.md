@@ -70,6 +70,10 @@ DB_DIALECT="mysql"
 DB_HOST="localhost"
 DB_PORT=3306
 DB_MAXCONNECTIONS=5
+
+# NODE_ENV=production
+# NODE_ENV=test
+NODE_ENV=development
 ```
 
 ---
